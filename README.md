@@ -1,0 +1,1 @@
+# kenaito-ansible-go-example
